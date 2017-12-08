@@ -1,0 +1,9 @@
+/Users/bkila/Desktop/RESTauranteer/bin/Debug/netcoreapp1.1/RESTauranteer.deps.json
+/Users/bkila/Desktop/RESTauranteer/bin/Debug/netcoreapp1.1/RESTauranteer.runtimeconfig.json
+/Users/bkila/Desktop/RESTauranteer/bin/Debug/netcoreapp1.1/RESTauranteer.runtimeconfig.dev.json
+/Users/bkila/Desktop/RESTauranteer/obj/Debug/netcoreapp1.1/RESTauranteer.csproj.CoreCompileInputs.cache
+/Users/bkila/Desktop/RESTauranteer/obj/Debug/netcoreapp1.1/RESTauranteer.AssemblyInfo.cs
+/Users/bkila/Desktop/RESTauranteer/bin/Debug/netcoreapp1.1/RESTauranteer.dll
+/Users/bkila/Desktop/RESTauranteer/bin/Debug/netcoreapp1.1/RESTauranteer.pdb
+/Users/bkila/Desktop/RESTauranteer/obj/Debug/netcoreapp1.1/RESTauranteer.dll
+/Users/bkila/Desktop/RESTauranteer/obj/Debug/netcoreapp1.1/RESTauranteer.pdb
